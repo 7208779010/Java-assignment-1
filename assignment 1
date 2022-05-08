@@ -1,0 +1,7 @@
+class first_pro
+{
+    public static void main(Strings args[]}
+	{
+	System.out.println("Hi this is our first program");
+	}
+}
