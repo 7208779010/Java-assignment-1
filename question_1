@@ -1,0 +1,6 @@
+class information {
+    public static void main(String[] args) 
+	{
+        System.out.println("Hello\nName: Sanskriti Mishra \nMobile no-7208779010 \nstream-Information technology"); 
+	}
+}
